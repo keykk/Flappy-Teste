@@ -2,10 +2,10 @@
 
 
 <p align="center">
-  <img src="https://img.itch.zone/aW1nLzE0MTQ0NjQ4LnBuZw==/original/9%2FQ3Qw.png" alt="Flappy Bird 3D Screenshot" width="500">
+  <img src="https://play.unity.com/_next/image?url=https%3A%2F%2Fplay.unity.com%2Fapi%2Fv1%2Ffiles%2Ffile%2Ffd83c18e-a104-42fb-90b0-1004505ee40c%2Fcontent&w=640&q=75" alt="Flappy Bird 3D Screenshot" width="500">
 </p>
 
-Recriação do clássico jogo Flappy Bird em 3D, desenvolvido como parte do curso da Digital Innovation One.
+Recriação do clássico jogo Flappy Bird em 3D, desenvolvido como parte da Formação Unity 3D Game Developer.
 
 ## 🚀 Demonstração
 
