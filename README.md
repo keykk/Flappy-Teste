@@ -1,7 +1,5 @@
 # 🎮 Flappy Bird 3D - Projeto Dio.me
 
-[![Unity](https://img.shields.io/badge/Unity-2021%2B-000000.svg?logo=unity)](https://unity.com)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <img src="https://img.itch.zone/aW1nLzE0MTQ0NjQ4LnBuZw==/original/9%2FQ3Qw.png" alt="Flappy Bird 3D Screenshot" width="500">
