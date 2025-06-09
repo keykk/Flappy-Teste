@@ -20,7 +20,7 @@ public class PlayerControle:MonoBehaviour
         //Jump
         if (canJump)
         {
-            bool jumpInput = Input.GetKey(KeyCode.Space);
+            bool jumpInput = Input.GetKey(KeyCode.Space) || Input.GetMouseButtonDown(0);
             if (jumpInput)
             {
                 Jump(); // Call the Jump method 
