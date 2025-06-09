@@ -9,9 +9,10 @@ Recriação do clássico jogo Flappy Bird em 3D, desenvolvido como parte da Form
 
 ## 🚀 Demonstração
 
-Jogue agora no Unity Play:  
-👉 [https://play.unity.com/en/games/1b9e8ab6-91ec-4990-8f3a-b772339cb5c1/flappy-teste](https://play.unity.com/en/games/1b9e8ab6-91ec-4990-8f3a-b772339cb5c1/flappy-teste)
+[![Jogar no Unity Play](https://img.shields.io/badge/JOGAR-UNITY_PLAY-00abfb?style=for-the-badge&logo=unity)](https://play.unity.com/en/games/1b9e8ab6-91ec-4990-8f3a-b772339cb5c1/flappy-teste)
 
+**Ou copie o link:**  
+`https://play.unity.com/en/games/1b9e8ab6-91ec-4990-8f3a-b772339cb5c1/flappy-teste`
 ## 🕹️ Como Jogar
 
 - **Pressione ESPAÇO** para fazer o pássaro voar
